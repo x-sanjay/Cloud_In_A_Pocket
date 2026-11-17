@@ -190,7 +190,6 @@ Not done yet. This is the final step, after Phase 1 is stable.
 5. Upload a test file and confirm it appears in the bucket.
 6. Note: files already uploaded to local storage do not move automatically, so switch to S3 before adding real data.
 
-*(Fill in results, screenshots and any errors here once Phase 2 is complete.)*
 
 ---
 
