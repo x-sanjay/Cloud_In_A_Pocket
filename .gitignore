@@ -1,0 +1,15 @@
+# AWS key pairs and secrets - NEVER commit these
+*.pem
+*.ppk
+*.key
+.env
+credentials
+*.csv
+*accessKeys*
+*rootkey*
+
+# Windows / editor noise
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
